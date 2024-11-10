@@ -1,6 +1,5 @@
 import React from "react"
 import { SiLeetcode } from "react-icons/si"
-
 const About = () => {
     return (
       <div>
